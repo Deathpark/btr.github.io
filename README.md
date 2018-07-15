@@ -1,2 +1,2 @@
-# btr.github.io
+# https://deathpark.github.io/btr.github.io/
 Help Pet
